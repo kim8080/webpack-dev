@@ -1,0 +1,18 @@
+body {
+  background: red;
+}
+
+.foo {
+  color: white;
+  width: 200px;
+}
+
+.baz {
+  color: black;
+  width: 300px;
+}
+
+.baz {
+  color: grey;
+  width: 400px;
+}
